@@ -92,6 +92,7 @@ app.get('/image', async (req, res) => {
     `,
     transparent: true,
     puppeteerArgs: {
+      args: ['--no-sandbox'],
       defaultViewport: {
         width: 260,
         height: 372,
