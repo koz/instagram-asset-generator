@@ -21,7 +21,7 @@ An API to generate different assets that we can use to share on Instagram.
 
 [Example](https://instagram-asset-generator.herokuapp.com/chef?title=NAME&subtitle=PLACEHOLDER&cover=https://place-puppy.com/1280x1280&picture=https://place-puppy.com/300x300)
 
---
+---
 
 ### Featured Chef
 
